@@ -2,9 +2,10 @@
     "name": "alejandr0112/examen-recetas-marroquin",
     "type": "project",
     "description": "Aplicacion Laravel para catalogo de recetas marroquies.",
+    "license": "proprietary",
     "require": {
         "php": "^8.2",
-        "laravel/framework": "^10.0"
+        "laravel/framework": "^12.0"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23"
